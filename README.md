@@ -1,2 +1,2 @@
 # Platform
-A simple Spring Boot server that accepts external plugins
+A simple Spring Boot server that serves as the base for extensions
